@@ -1,6 +1,6 @@
 {
   "name": "ember-paper-jsonapi-data-table",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Extension of ember-jsonapi-data-table (for Rails with jsonapi-resource gem with ember-paper styling",
   "keywords": [
     "ember-addon",
@@ -26,7 +26,7 @@
   "dependencies": {
     "ember-cli-babel": "^7.4.1",
     "ember-cli-htmlbars": "^3.0.1",
-    "ember-jsonapi-data-table": "^1.0.0"
+    "ember-jsonapi-data-table": "^1.0.1"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^3.0.0",
