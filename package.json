@@ -1,7 +1,7 @@
 {
-  "name": "ember-paper-data-table",
-  "version": "0.2.2",
-  "description": "Extension of ember-data-table with ember-paper styling",
+  "name": "ember-paper-jsonapi-data-table",
+  "version": "0.2.3",
+  "description": "Extension of ember-jsonapi-data-table (for Rails with jsonapi-resource gem with ember-paper styling",
   "keywords": [
     "ember-addon",
     "mu-semtech"
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mu-semtech/ember-paper-data-table"
+    "url": "https://github.com/schekin/ember-paper-data-table"
   },
   "scripts": {
     "build": "ember build",
@@ -26,7 +26,7 @@
   "dependencies": {
     "ember-cli-babel": "^7.4.1",
     "ember-cli-htmlbars": "^3.0.1",
-    "ember-data-table": "https://github.com/schekin/ember-data-table"
+    "ember-jsonapi-data-table": "^1.0.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^3.0.0",
